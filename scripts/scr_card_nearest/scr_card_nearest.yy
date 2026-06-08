@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"scr_card_nearest",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"scr_card_nearest",
+  "parent":{
+    "name":"Functions",
+    "path":"folders/Scripts/Cards/Functions.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

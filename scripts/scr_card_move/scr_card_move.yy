@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"scr_card_move",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"scr_card_move",
+  "parent":{
+    "name":"Functions",
+    "path":"folders/Scripts/Cards/Functions.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

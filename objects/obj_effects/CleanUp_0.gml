@@ -1,0 +1,2 @@
+ds_list_destroy(effects)
+ds_list_destroy(destroy_effects)

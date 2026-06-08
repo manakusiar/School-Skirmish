@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"scr_nearest_entity",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"scr_nearest_entity",
+  "parent":{
+    "name":"Functions",
+    "path":"folders/Scripts/Entities/Functions.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}
